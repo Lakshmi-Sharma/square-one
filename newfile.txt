@@ -2,4 +2,4 @@ New file added
 
 New Branch
 
-Git merge demo
+Git merge demo by Lakshmi Sharma
